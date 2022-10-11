@@ -14,16 +14,6 @@
 
 int main(void) {
 	
-	int b;
-	int SUM;
-
-	for (int c = 0; c > 5; c++) {
-		printf("Enter a number:");
-		scanf_s("%d", &b);
-		SUM = +b;
-
-		if (c != 5) {
-			printf("The sum is\n", SUM);
-		}
-	}
+	
+	
 }
